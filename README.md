@@ -1,2 +1,2 @@
 # autocut-releases
-AutoCut для Premiere Pro — installer.
+AutoCut Premiere Pro — installer.
